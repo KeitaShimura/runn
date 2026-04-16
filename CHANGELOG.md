@@ -1,3 +1,5 @@
+## [v1.9.1](https://github.com/KeitaShimura/runn/compare/v1.8.2...v1.9.1) - 2026-04-16
+
 ## [v1.9.1](https://github.com/k1LoW/runn/compare/v1.9.0...v1.9.1) - 2026-04-15
 ### New Features 🎉
 - feat: store prompt in agent runner step result by @k1LoW in https://github.com/k1LoW/runn/pull/1456
